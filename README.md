@@ -1,1 +1,1 @@
-# python-Snake Game - Jogo da Cobrinha!
+# python - Snake Game - Jogo da Cobrinha!
